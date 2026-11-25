@@ -1,10 +1,8 @@
 ![roffa](roffa-banniere-A.svg)
 
-### Salut, moi c'est Roffa 👋
+### Hi, I'm Roffa 👋
 
-- 🔐 Centres d'intérêt :
-- 🛠️ Stack :
-- 🎯 En ce moment :
-- 🚩 CTF :
+- 🔐 Cybersecurity · 🌐 Web development · 🐧 Linux & systems
+- 🚩 CTF: Soon... 
 
-📫 Me contacter :
+📫 Contact me :
